@@ -1,6 +1,6 @@
 <img src="screen/Love Dating Logo.png" ></img> 
 <br/>
-# DatingApp
+# DatingApp download
 Android app like Tinder.
 <br/>
 
